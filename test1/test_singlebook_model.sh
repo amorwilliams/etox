@@ -1,0 +1,1 @@
+python ../etox/etox.py -o ./ -i wb1.xlsx
